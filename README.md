@@ -7,7 +7,7 @@ The client’s brief focused on three main questions:
   
 -----
 ## 🔍 Dataset Overview
-An interactive Power BI dashboard was developed for the client, allowing filtering by guest country of origin, hotel type, and arrival date. This enables deeper, self-driven analysis for follow-up questions. The dashboard and analysis addressed each part of the brief:
+The dataset was first loaded into SQL for database creation and performing of exploratory data analysis (EDA) and an interactive Power BI dashboard was developed for the client, allowing filtering by guest country of origin, hotel type, and arrival date. This enables deeper, self-driven analysis for follow-up questions. The dashboard and analysis addressed each part of the brief:
 
 -----
 📈 Revenue Growth:
